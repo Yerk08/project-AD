@@ -1,0 +1,5 @@
+Script_Descriptions:
+
+COVID19_Format&Clean.py - imports the raw data and performs formatting and cleaning
+COVID19_QC - The quality control script that checks that data for problems and bad data
+ScientificData_MakeTables.py - Creates the tables included in the Scientific Data manuscript
